@@ -1,1 +1,1 @@
-# Galaxy-Pipeline_for_tuf_determination
+# Galaxy Pipeline for the determination of Staphylococcus species utilizing the tuf gene.
