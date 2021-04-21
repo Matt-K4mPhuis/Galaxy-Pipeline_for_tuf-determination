@@ -1,1 +1,1 @@
-# Galaxy-Pipeline_for_tuf-determination
+# Galaxy-Pipeline_for_tuf_determination
