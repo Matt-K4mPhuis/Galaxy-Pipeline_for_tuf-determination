@@ -34,7 +34,8 @@ Miniseq(Illumina)
 16. advanced cut
 17. tabular to fasta
 18. add header 
-19. NCBI blast + reference 
+19. NCBI blast 
+-Custom reference database was made by combining multiple Staphylococcus species entries retrieved from the NCBI database. https://www.ncbi.nlm.nih.gov/nucleotide/
 20. filter
 21. histogram
 
